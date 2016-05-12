@@ -51,7 +51,7 @@
 			<div class="copy-right-grids">
 				<div class="container">
 					<div class="copy-left">
-							<p class="footer-gd">© 2015 Olivine Solutions. All Rights Reserved | Developed by <a href="http://codeai.net/" target="new">CodeAI</a></p>
+							<p class="footer-gd">© 2010 - 2015 Olivine Solutions. All Rights Reserved | Developed by <a href="http://codeai.net/" target="new">CodeAI</a></p>
 					</div>
 					<div class="footer-links">
 						
